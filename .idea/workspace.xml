@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76fdb486-b65c-4843-b741-3291f214ff47" name="Default Changelist" comment="" />
+    <list default="true" id="81afba47-37ce-46bd-8980-3b5312348e63" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,18 +11,25 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Tag Library Descriptor" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1RIwjxd6escqC1q71fpdAzAVDOu" />
+  <component name="ProjectId" id="1SwjPDUvguRo7PpeYZsrcZtbRx9" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\mini-spring\spring-2.0\src\main\resources" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -37,12 +44,24 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="MiniSpringApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="mini-spring" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="org.ywb.minispring.MiniSpringApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="mini-spring" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -50,12 +69,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76fdb486-b65c-4843-b741-3291f214ff47" name="Default Changelist" comment="" />
-      <created>1569368056561</created>
+      <changelist id="81afba47-37ce-46bd-8980-3b5312348e63" name="Default Changelist" comment="" />
+      <created>1572481525088</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569368056561</updated>
-      <workItem from="1569368060484" duration="3536000" />
+      <updated>1572481525088</updated>
+      <workItem from="1572481529344" duration="308000" />
+      <workItem from="1572530409635" duration="14000" />
+      <workItem from="1572565644708" duration="1659000" />
+      <workItem from="1572823070965" duration="5020000" />
+      <workItem from="1572909618909" duration="4499000" />
     </task>
     <servers />
   </component>
